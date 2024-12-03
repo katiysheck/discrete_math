@@ -1,5 +1,7 @@
 # discrete_math
 all you need to pass the discrete math exam and the best synopsis ever (❁´◡`❁)
+
+_I need to tell that the first language of this synopsis is russian, so first of all I will publish ru-version, and then I will translate it in English (or you can help me instead ;)_
 ## In this synopsis you will understand (might be changed):
 
 **1) Introduction to sets, basic operations**
@@ -12,10 +14,14 @@ all you need to pass the discrete math exam and the best synopsis ever (❁´◡
 
 **5) Introduction to λ-calculus** 
 
-    take a breath, I know that It's suck, you will understand soon, darling❤️
-    if you don't now, It's quite OK, honestly, we all don't ;)
+**                   **
 
-    Here we go!
+_take a breath, I know that It's suck, you will understand soon, darling❤️
+    if you don't now, It's quite OK, honestly, we all don't ;)_
+
+_Here we go!_
+
+**                   **
 
 **6) Normal forms and Church-Rosser theorem**
 
@@ -27,7 +33,11 @@ all you need to pass the discrete math exam and the best synopsis ever (❁´◡
 
 **10) Normal forms in propositional logic**
 
-    One more stop-station, you can think about this scary words and take a suggetion what you will be learn
+**                   **
+
+_One more stop-station, you can think about this scary words and take a suggetion about what you will be learn_
+
+**                   **
 
 **11) Sequential propositional calculus**
 
@@ -41,4 +51,10 @@ all you need to pass the discrete math exam and the best synopsis ever (❁´◡
 
 **16) Hoare logic and formal verification**
 
+**                   **
+
 ... that's all for now
+
+So, good luck young padawan!
+
+**                   **
